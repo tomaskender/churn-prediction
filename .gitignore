@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Unit test / coverage reports
+.tox/
+.mypy_cache/
+.pytest_cache/
+*.egg-info/
+
+# Test dataset dynamically downloaded via conftest
+tests/data/
